@@ -40,7 +40,7 @@
 
 Em breve, meus projetos serão listados aqui! Estou construindo meu portfólio conforme avanço nos estudos. 🧩
 
-- 🔹 [StreamFlix — Catálogo de Filmes](#) - Este é o StreamFlix, um catálogo de filmes que desenvolvi com o visual inspirado em plataformas de streaming como Netflix e Prime Video. A ideia surgiu como projeto de estudo em JavaScript, consumo de APIs e front-end, e acabou virando algo que gosto de mostrar no meu portfólio: além de buscar e filtrar filmes, o site tem banner de destaque, fileiras horizontais por categoria e gênero, favoritos salvos localmente e uma tela de detalhes bem completa — tudo isso sem nenhum framework, apenas HTML, CSS e JavaScript puro.
+- 🔹 [StreamFlix — Catálogo de Filmes](#) - Este é o StreamFlix, um catálogo de filmes que desenvolvi com o visual inspirado em plataformas de streaming como Netflix e Prime Video. A ideia surgiu como projeto de estudo em JavaScript, consumo de APIs e front-end, e acabou virando algo que gosto de mostrar no meu portfólio: além de buscar e filtrar filmes, o site tem banner de destaque, fileiras horizontais por categoria e gênero, favoritos salvos localmente e uma tela de detalhes bem completa — tudo isso sem nenhum framework, apenas HTML, CSS e JavaScript puro. Link do projeto: https://streamflix-filmes.netlify.app/
 - 🔹 [Nome do Projeto 2](#) 
 - 🔹 [Nome do Projeto 3](#) 
 
