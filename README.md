@@ -15,7 +15,7 @@
 
 - Cursando **Análise e Desenvolvimento de Sistemas** na **UNIP** (conclusão prevista para dez/2026)
 - Localizada em **Limeira – SP, Brasil**
-- Interesse em **desenvolvimento de software, inteligência artificial e segurança da informação**
+- Interesse em **suporte, implantação, desenvolvimento de software, inteligência artificial e segurança da informação**
 - Experiência prévia em **atendimento ao cliente e comunicação**, hoje direcionando essas habilidades para a área de tecnologia
 - Buscando minha primeira oportunidade na área, com muita dedicação, proatividade e vontade de crescer profissionalmente
 - Inglês em nível **intermediário**
@@ -33,7 +33,7 @@
 - **Design Gráfico**
 - **Marketing**
 - **Trabalho em Equipe**
-
+- **Análise de Suporte**
 ---
 
 ## 🚀 Projetos em destaque
